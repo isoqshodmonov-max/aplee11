@@ -223,6 +223,17 @@ article img {
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8738248908447957"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gw-3+1f-3d+2z"
+     data-ad-client="ca-pub-8738248908447957"
+     data-ad-slot="3706670744"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
     <footer>
         <p>&copy; 2024 World News</p>
     </footer>

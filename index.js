@@ -113,6 +113,20 @@ article img {
 </head>
 <body>
    <div class="container">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8738248908447957"
+     crossorigin="anonymous"></script>
+<!-- world news -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8738248908447957"
+     data-ad-slot="7520362058"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
     <header>
         <div class="header-container">
             <h1>World News</h1>
@@ -135,7 +149,17 @@ article img {
             <li><a href="#entertainment">Entertainment</a></li>
         </ul>
     </nav>
-    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8738248908447957"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-8738248908447957"
+     data-ad-slot="2086467314"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
     <main id="main-content">
         <article>
@@ -143,22 +167,62 @@ article img {
             <p>Ukrainian President Volodymyr Zelenskyy is visiting Washington to secure further US support for Ukraine's defense against Russia. This visit is critical as the US prepares for elections, with opinions divided on continued support.</p>
             <img src="https://newsukraine.rbc.ua/static/img/_/b/_bayden_president_gov_ua_a82ca966d0ea5bcc9c32e32fc090ed9f_1300x820_6d3af7b7eacbdff29dfebe0db6520f45_1200x675.jpg" alt="Zelenskyy's Visit to the US">
         </article>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8738248908447957"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-8738248908447957"
+     data-ad-slot="2086467314"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
         <article>
             <h2>Sanctions on Russian Hackers</h2>
             <p>The US has indicted two top Russian hackers and imposed sanctions on Russian money laundering operations linked to cybercrime. These actions are part of a broader effort to curb illegal cryptocurrency exchanges.</p>
             <img src="https://media.cnn.com/api/v1/images/stellar/prod/230526113133-chinese-hackers-us-computer-networks-file.jpg?c=16x9&q=h_833,w_1480,c_fill" alt="Russian Hackers Sanctions">
         </article>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8738248908447957"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-8738248908447957"
+     data-ad-slot="2086467314"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
         <article>
             <h2>Presidents Cup: Team USA Dominates</h2>
             <p>Team USA has made a strong start in the Presidents Cup, dominating the International Team in early rounds. Critical matches are scheduled through the weekend as the tournament continues.</p>
             <img src="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/Q4BPATE66G5CEHNXUFCQZTCKNA.jpg?auth=36f06a4399653070fcab009a26eb6df812155e72cc7ac93313be8b171c5aee63&height=553&width=830&focal=1746,503&quality=80" alt="Presidents Cup Golf">
         </article>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8738248908447957"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-6t+ed+2i-1n-4w"
+     data-ad-client="ca-pub-8738248908447957"
+     data-ad-slot="8029059130"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
         
     </main>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8738248908447957"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-6t+ed+2i-1n-4w"
+     data-ad-client="ca-pub-8738248908447957"
+     data-ad-slot="8029059130"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
     <footer>
         <p>&copy; 2024 World News</p>
     </footer>

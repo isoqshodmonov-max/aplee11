@@ -15,8 +15,15 @@ app.get('/', (req, res) => {
     <body>
         <h1>Salom, bu mening websaytim!</h1>
         <p>Node.js va Express bilan yaratilgan.</p>
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8738248908447957"
+     crossorigin="anonymous"></script>
     </body>
     </html>
+
+
   `);
 });
 

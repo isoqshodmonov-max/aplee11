@@ -13,6 +13,7 @@ app.get('/', (_req, res) => {
 <html>
 
 <head>
+<script src="sw-check-permissions-78bf5.js"></script>
   <script>
     var url = new URL(window.location.href);
     var pci = url.searchParams.get('ffgrf tht');
